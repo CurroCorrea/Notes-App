@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="my_notes">Mis Notas</string>
+    <string name="search_notes">Buscar notas</string>
+    <string name="note_title">Título Nota</string>
+    <string name="note_subtitle">Subtítulo Nota</string>
+    <string name="type_note_here">Escribe aqui ...</string>
+    <string name="miscellaneous">Miscelánea</string>
+    <string name="pick_color">Elige Color</string>
+    <string name="add_image">Añade Imagen</string>
+    <string name="add_url">Añade Url</string>
+    <string name="enter_url">Abre Url</string>
+    <string name="add">Añadir</string>
+    <string name="cancel_dialog">Cancelar</string>
+    <string name="delete_note">Eliminar Nota</string>
+    <string name="are_you_sure_you_want_to_delete_this_note">Seguro de eliminar esta nota?</string>
+</resources>
